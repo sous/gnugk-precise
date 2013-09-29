@@ -1,4 +1,4 @@
-GnuGK 3.5 CVS static build
+GnuGK CVS static build
 
 This is an apt repository.
 
