@@ -1,17 +1,17 @@
 Package: gnugk
-Version: 3.5.0-cvs201309290315
+Version: 3.5.0-cvs201310122243
 Architecture: amd64
 Maintainer: Git Sous <gitsous@gmail.com>
-Installed-Size: 10474
+Installed-Size: 10494
 Depends: libc6 (>= 2.14), libexpat1 (>= 1.95.8), libgcc1 (>= 1:4.1.1), libldap-2.4-2 (>= 2.4.7), libssh-4 (>= 0.5.0), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.6)
 Homepage: http://github.com/sous/gnugk-precise
 Priority: extra
 Section: comm
-Filename: pool/main/g/gnugk/gnugk_3.5.0-cvs201309290315_amd64.deb
-Size: 3129184
-SHA256: 24574d21da396bf66e17ba55d3596333e5be5569f1c33c9fbdd55a8b50509c45
-SHA1: 74fe427974c8169c882ee06c0e26f2cf801fff1a
-MD5sum: bed5ff437b0d91ff2a8186ab495f5b9b
+Filename: pool/main/g/gnugk/gnugk_3.5.0-cvs201310122243_amd64.deb
+Size: 3135642
+SHA256: 55f06ed04a8fc29e26fe8e2ecedb71110ba28638286d9d0e723b77d19a4bef28
+SHA1: a2b086baba86531c220183ba6a567245a5757672
+MD5sum: 286530696fec37102895ef63de0b9e31
 Description: gnugk 3.5.0 CVS static binary build
  This includes the static binary built from the openh323gk (gnugk) project
 
