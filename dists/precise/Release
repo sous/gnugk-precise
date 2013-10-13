@@ -1,37 +1,37 @@
 Origin: raw.github.com
 Label: apt repository
 Codename: precise
-Date: Sun, 13 Oct 2013 01:32:14 UTC
+Date: Sun, 13 Oct 2013 02:12:22 UTC
 Architectures: amd64 i386
 Components: main
 Description: GnuGK packages
 MD5Sum:
- dda960686197c67c5b5f6d0897ff7489 740 main/binary-amd64/Packages
- 133bb5533b8e525acd3a2f5bcf1d12a8 495 main/binary-amd64/Packages.gz
+ 6bd797cbb0ce159b2c636fa8d5d19117 734 main/binary-amd64/Packages
+ 499c6c840c914f43b47153a466b48bf0 493 main/binary-amd64/Packages.gz
  e49ebfa6ac87a00aa03b3e15e91d7eaf 109 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  1fdebc28a60c7a528e9847cd1425ef54 108 main/binary-i386/Release
- f6709972a6dcfc6f11844c5de5e3a7e5 1033 main/source/Sources
- f3708f5154cca6a373e738417632a66e 539 main/source/Sources.gz
+ 323beacf5eea188618250b102d65766a 1012 main/source/Sources
+ 6f31deba79456d8aabde1c4e35d4fa8f 538 main/source/Sources.gz
  07e8bbd4e1fe65549a6558a9c2f3b192 110 main/source/Release
 SHA1:
- 7307d3701866dc6fa527c623a95e88ce56335ed1 740 main/binary-amd64/Packages
- d3c098946c0a3a035a5bbe5ab4c8ab5394ce7bf1 495 main/binary-amd64/Packages.gz
+ ee64282b87c56aa40c9b3740e54b6238795d6757 734 main/binary-amd64/Packages
+ 09d26dbcdffa7b2cb0f7645d4ff85ed50ebe12fa 493 main/binary-amd64/Packages.gz
  9b659564505460c408a4f3796f36698105378b01 109 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  43253ebc8a21f3905003a3937b94c9598882682b 108 main/binary-i386/Release
- 4a4e67bb2dca76b87207da653560d5857d80bc96 1033 main/source/Sources
- d6640c2ecd28f4f7f7adf00659f17af50b7b8ab7 539 main/source/Sources.gz
+ 588fa83b90868ffc8d6ff4b6ca7cef883d6b6e1a 1012 main/source/Sources
+ f46aba8163d54af052d9fec34257776e945b2d33 538 main/source/Sources.gz
  55319c71524a24245d2ad1f8647bb70ea431d128 110 main/source/Release
 SHA256:
- ca5648684d0a568b0d96088e1f872f56e70776d745e60fe5fa3f5621f3aa0b0c 740 main/binary-amd64/Packages
- 024278316194256f252f19edc7ea45f6fe68403cd47d4848c84da20af80f2fa0 495 main/binary-amd64/Packages.gz
+ 9f384ebe89fcdbbdb944aaf6bab5f85c012cedab2edecde3314af4275b438c90 734 main/binary-amd64/Packages
+ ba32737b04d46adc037f3e2dbfd7d80c8eef92f48ec06a9beaf619b5f5eac52f 493 main/binary-amd64/Packages.gz
  d265136751c08454a3682e157ab57cc781318a50b146eaed586edbdf3d29309d 109 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  a9d6f37226e9ea77c86688fd3fac27df2150d6dd8f34c55cb0a322ba152dfc90 108 main/binary-i386/Release
- 2140269c371207973d74da4aee0366da053cfd2b08e81767e08aad58504a5c58 1033 main/source/Sources
- f5edde13d874737fd2177d86eda6553f9d8dfcbe3a14fbfe8a914940fafb97ac 539 main/source/Sources.gz
+ d29d1bbfe6cd6913ef62722993d56dc9e51db6d14fdf6c33d3ebab4201630dc3 1012 main/source/Sources
+ 429f70b854ce5a5a8ac9b8003485e78db3569927dde7d020d9bc4f4d07d594d6 538 main/source/Sources.gz
  0ed99a66db2e6b6e506aa738fa73d7e49e1a96feecb400e6087238f9beffcbbc 110 main/source/Release
